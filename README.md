@@ -15,4 +15,4 @@ The Grading System is a Java application that allows educators to input student 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/anitagonza/GradingSystem.java.git
